@@ -24,8 +24,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='assets/gif.mp4' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/88e4NsO"  ><a href="//imgur.com/a/88e4NsO"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://imgur.com/a/v7kU6z4' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](https://www.cockos.com/licecap/).
 
