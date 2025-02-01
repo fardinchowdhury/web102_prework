@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![gif](https://github.com/user-attachments/assets/bfdf79ac-5ea9-42f9-b216-cb48cbd9242b)
 
 <img src=''  />
 <video width='600' title='Video Walkthrough'  alt='Video Walkthrough'>
