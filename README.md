@@ -24,8 +24,12 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/v7kU6z4' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
-
+<img src=''  />
+<video width='600' title='Video Walkthrough'  alt='Video Walkthrough'>
+  <source src="https://imgur.com/a/v7kU6z4" type="video/mp4">
+  <source src="assets/gif.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 GIF created with [LiceCap](https://www.cockos.com/licecap/).
 
